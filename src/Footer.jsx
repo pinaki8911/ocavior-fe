@@ -59,10 +59,10 @@ const Footer = () => {
   const contactInfo = [
     {
       icon: Mail,
-      text: "contact@ocavior.com",
-      href: "mailto:contact@ocavior.com",
+      text: "ocaviortech@gmail.com",
+      href: "mailto:ocaviortech@gmail.com",
     },
-    { icon: Phone, text: "+1 (555) 123-4567", href: "tel:+15551234567" },
+    { icon: Phone, text: "+91 91192 11467", href: "tel:+919119211467" },
     {
       icon: MapPin,
       text: "123 Business Ave, New York, NY 10001",
